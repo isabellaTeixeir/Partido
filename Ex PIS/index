@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang = "pt-br"> <!-- Define o documento como HTML5 e especifica que o idioma principal da página é o português do Brasil -->
+    <head>
+        <meta charset = "UTF-8">  <!--Define a coleção dos elementos brasileiros (como acentos...)-->
+        <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">  <!--Reconhece o tamanho da tela-->  
+
+        <title> Parallelo Arquitetura e Construção </title>
+
+        <link rel = "stylesheet" href = "css/style.css">  <!--Lembre-se sempre de colocar o arquivo css dentro de uma pasta, pois é o que aparece no comando "css/"-->
+
+        <link rel="preconnect" href="Img/DALL·E 2024-09-10 08.55.39 - A modern logo design for a political party called 'Partido da Inovação Sustentável (PIS)'. The logo should represent innovation, technology, and susta.webp">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    </head>
